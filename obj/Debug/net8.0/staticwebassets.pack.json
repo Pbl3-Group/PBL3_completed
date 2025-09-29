@@ -1,0 +1,405 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/obj/Debug/net8.0/scopedcss/projectbundle/HETHONGTIMVIEC.bundle.scp.css",
+      "PackagePath": "staticwebassets/HETHONGTIMVIEC.0taakm8oko.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/css/CandidateDashboard.css",
+      "PackagePath": "staticwebassets/css/CandidateDashboard.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/css/Login.css",
+      "PackagePath": "staticwebassets/css/Login.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/css/baocao.css",
+      "PackagePath": "staticwebassets/css/baocao.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/css/chat.css",
+      "PackagePath": "staticwebassets/css/chat.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/css/home-styles.css",
+      "PackagePath": "staticwebassets/css/home-styles.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/css/timviec.css",
+      "PackagePath": "staticwebassets/css/timviec.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/css/tinnhan.css",
+      "PackagePath": "staticwebassets/css/tinnhan.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/css/viecdaluu.css",
+      "PackagePath": "staticwebassets/css/viecdaluu.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/file/CV/015fcf05-773a-4f4e-ac48-046bfa06c192_BaΓòáC╠ºi taΓòáu╠üΓòáe╠üp 13_1.pdf",
+      "PackagePath": "staticwebassets/file/CV/015fcf05-773a-4f4e-ac48-046bfa06c192_BaΓòáC╠ºi taΓòáu╠üΓòáe╠üp 13_1.pdf"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/file/CV/1_1746014973.pdf",
+      "PackagePath": "staticwebassets/file/CV/1_1746014973.pdf"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/file/CV/1_1748422048.pdf",
+      "PackagePath": "staticwebassets/file/CV/1_1748422048.pdf"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/file/CV/28e86f9f-c939-4119-a352-ad5ebca7a49a_Chap 4-Bài tập ngày 5.5.docx",
+      "PackagePath": "staticwebassets/file/CV/28e86f9f-c939-4119-a352-ad5ebca7a49a_Chap 4-Bài tập ngày 5.5.docx"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/file/CV/7_1749610223.pdf",
+      "PackagePath": "staticwebassets/file/CV/7_1749610223.pdf"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/file/CV/a43e91c8-c581-4c9f-9aa6-e8e4fa7f7a3b_5 - OSPF Multiple Area.pdf",
+      "PackagePath": "staticwebassets/file/CV/a43e91c8-c581-4c9f-9aa6-e8e4fa7f7a3b_5 - OSPF Multiple Area.pdf"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/file/CV/c8bad6f5-01af-49ca-a8e0-145304ae2093_DEKT_ID38.pdf",
+      "PackagePath": "staticwebassets/file/CV/c8bad6f5-01af-49ca-a8e0-145304ae2093_DEKT_ID38.pdf"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/file/img/Avatar/10_45382a97.png",
+      "PackagePath": "staticwebassets/file/img/Avatar/10_45382a97.png"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/file/img/Avatar/1_1745996950.jpg",
+      "PackagePath": "staticwebassets/file/img/Avatar/1_1745996950.jpg"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/file/img/Avatar/7_1749610099.jpg",
+      "PackagePath": "staticwebassets/file/img/Avatar/7_1749610099.jpg"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/file/img/Avatar/8_1749611668.jpg",
+      "PackagePath": "staticwebassets/file/img/Avatar/8_1749611668.jpg"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/file/img/Avatar/9_be0b0439.png",
+      "PackagePath": "staticwebassets/file/img/Avatar/9_be0b0439.png"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/file/img/Avatar/avatar1.jpg",
+      "PackagePath": "staticwebassets/file/img/Avatar/avatar1.jpg"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/file/img/Avatar/avatar2.jpg",
+      "PackagePath": "staticwebassets/file/img/Avatar/avatar2.jpg"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/file/img/Avatar/avatar3.jpg",
+      "PackagePath": "staticwebassets/file/img/Avatar/avatar3.jpg"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/file/img/Picture/construction-9045703_1280.jpg",
+      "PackagePath": "staticwebassets/file/img/Picture/construction-9045703_1280.jpg"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/file/img/Picture/pexels-fauxels-3184291.jpg",
+      "PackagePath": "staticwebassets/file/img/Picture/pexels-fauxels-3184291.jpg"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/file/img/Picture/pexels-photo-3184418.webp",
+      "PackagePath": "staticwebassets/file/img/Picture/pexels-photo-3184418.webp"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/file/img/founders/founder1.jpg",
+      "PackagePath": "staticwebassets/file/img/founders/founder1.jpg"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/file/img/founders/founder1.png",
+      "PackagePath": "staticwebassets/file/img/founders/founder1.png"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/file/img/founders/founder2.jpg",
+      "PackagePath": "staticwebassets/file/img/founders/founder2.jpg"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/file/img/founders/founder22.jpg",
+      "PackagePath": "staticwebassets/file/img/founders/founder22.jpg"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/file/img/founders/founder3.jpg",
+      "PackagePath": "staticwebassets/file/img/founders/founder3.jpg"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/images/logos/e24f59d2-e374-46cf-9ff0-70998fb09780_pexels-altabena-10142683.jpg",
+      "PackagePath": "staticwebassets/images/logos/e24f59d2-e374-46cf-9ff0-70998fb09780_pexels-altabena-10142683.jpg"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/js/jobPostingForm.js",
+      "PackagePath": "staticwebassets/js/jobPostingForm.js"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/js/tinnhan.js",
+      "PackagePath": "staticwebassets/js/tinnhan.js"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/nguyenthanhhuyen/Pictures/tai_lieu/Toán ứng dụng/Toán ứng dụng code/HETHONGTIMVIEChuyen4/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.HETHONGTIMVIEC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.HETHONGTIMVIEC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.HETHONGTIMVIEC.props",
+      "PackagePath": "build\\HETHONGTIMVIEC.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.HETHONGTIMVIEC.props",
+      "PackagePath": "buildMultiTargeting\\HETHONGTIMVIEC.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.HETHONGTIMVIEC.props",
+      "PackagePath": "buildTransitive\\HETHONGTIMVIEC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
